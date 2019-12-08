@@ -1779,6 +1779,12 @@ figcaption {
   align-items: flex-start;
 }
 
+.youtube_embed {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .heading-2 {
   margin-right: auto;
   margin-left: auto;
@@ -1994,6 +2000,15 @@ figcaption {
   margin-top: 20px;
   margin-bottom: 40px;
   background-image: url('../images/pille-riin-priske-BgvvOFEcHjg-unsplash.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.container-12 {
+  height: 500px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  background-image: url('../images/maxresdefault.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
