@@ -22,13 +22,17 @@ var phoneInput= document.querySelector("#phone");
 var phoneInputLabel= document.querySelector("#phone-label");
 var startNowButton= document.querySelector("#start_now");
 var submitButton= document.querySelector("#submit");
+var email_test_collection="email-test";
+var phone_test_collection="phone-test";
+var email_production_collection="emails";
+var phone_production_collection="phone-numbers";
 
 startNowButton.addEventListener("click", function(){
 
   var email= emailInput.value;
   if(emailInput.checkValidity()){
     //startNowButton.innerHTML='<img style="height:10px; width:10px;" src="svg/loading.svg">';
-    db.collection("emails").add({
+    db.collection(email_test_collection).add({
         email: email,
 
     })
@@ -43,7 +47,7 @@ startNowButton.addEventListener("click", function(){
         phoneInputLabel.style.display="block";
         phoneInput.style.display="block";
         startNowButton.style.display="none";
-        submitButton.style.display="inline-block";
+        submitButton.style.display="block";
     })
     .catch(function(error) {
       startNowButton.innerHTML='START NOW';
@@ -57,7 +61,7 @@ submitButton.addEventListener("click", function(){
   var phone= phoneInput.value;
   if(phoneInput.checkValidity()){
     //startNowButton.innerHTML='<img style="height:10px; width:10px;" src="svg/loading.svg">';
-    db.collection("phone_numbers").add({
+    db.collection(phone_test_collection).add({
         email: phone,
 
     })
