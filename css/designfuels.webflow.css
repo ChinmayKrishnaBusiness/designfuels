@@ -271,6 +271,25 @@ figcaption {
   background-color: hsla(0, 0%, 100%, 0.9);
 }
 
+#phone {
+  display: none;
+}
+#phone-label {
+  display: none;
+}
+#email_success_message_top{
+  display: none;
+}
+#submit{
+  display: none;
+}
+.inline-notification{
+  background-color: green;
+  color: white;
+  padding:0px 10px;
+  margin:10px 0px;
+  font-size: 12px;
+}
 .label {
   margin-bottom: 10px;
   font-size: 12px;
