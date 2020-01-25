@@ -224,7 +224,6 @@ figcaption {
 }
 
 .button.cc-jumbo-button.cc-jumbo-white {
-  margin-top: -200px;
   border-style: solid;
   border-width: 1px;
   border-color: #0e498c;
@@ -724,6 +723,15 @@ figcaption {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
+}
+.form-block{
+  color: rgb(26, 27, 31);
+    text-align: left;
+}
+
+.form{
+  padding-right: 20px;
+    padding-left: 20px;
 }
 
 .text-field {
