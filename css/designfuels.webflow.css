@@ -283,6 +283,323 @@ figcaption {
 #submit{
   display: none;
 }
+
+#email_website_design {
+  display: none;
+}
+#email-label_website_design {
+  display: none;
+}
+#phone_website_design {
+  display: none;
+}
+#phone-label_website_design {
+  display: none;
+}
+#email_success_message_website_design{
+  display: none;
+}
+#book_now_email_website_design{
+  display: none;
+}
+#submit_website_design{
+  display: none;
+}
+
+#email_app_design {
+  display: none;
+}
+#email-label_app_design {
+  display: none;
+}
+#phone_app_design {
+  display: none;
+}
+#phone-label_app_design {
+  display: none;
+}
+#email_success_message_app_design{
+  display: none;
+}
+#book_now_email_app_design{
+  display: none;
+}
+#submit_app_design{
+  display: none;
+}
+
+#email_website_development {
+  display: none;
+}
+#email-label_website_development {
+  display: none;
+}
+#phone_website_development {
+  display: none;
+}
+#phone-label_website_development {
+  display: none;
+}
+#email_success_message_website_development{
+  display: none;
+}
+#book_now_email_website_development{
+  display: none;
+}
+#submit_website_development{
+  display: none;
+}
+
+#email_app_development {
+  display: none;
+}
+#email-label_app_development {
+  display: none;
+}
+#phone_app_development {
+  display: none;
+}
+#phone-label_app_development {
+  display: none;
+}
+#email_success_message_app_development{
+  display: none;
+}
+#book_now_email_app_development{
+  display: none;
+}
+#submit_app_development{
+  display: none;
+}
+
+#email_logo_design {
+  display: none;
+}
+#email-label_logo_design {
+  display: none;
+}
+#phone_logo_design {
+  display: none;
+}
+#phone-label_logo_design {
+  display: none;
+}
+#email_success_message_logo_design{
+  display: none;
+}
+#book_now_email_logo_design{
+  display: none;
+}
+#submit_logo_design{
+  display: none;
+}
+
+#email_poster_design {
+  display: none;
+}
+#email-label_poster_design {
+  display: none;
+}
+#phone_poster_design {
+  display: none;
+}
+#phone-label_poster_design {
+  display: none;
+}
+#email_success_message_poster_design{
+  display: none;
+}
+#book_now_email_poster_design{
+  display: none;
+}
+#submit_poster_design{
+  display: none;
+}
+
+#email_social_media_design {
+  display: none;
+}
+#email-label_social_media_design {
+  display: none;
+}
+#phone_social_media_design {
+  display: none;
+}
+#phone-label_social_media_design {
+  display: none;
+}
+#email_success_message_social_media_design{
+  display: none;
+}
+#book_now_email_social_media_design{
+  display: none;
+}
+#submit_social_media_design{
+  display: none;
+}
+
+#email_menu_design {
+  display: none;
+}
+#email-label_menu_design {
+  display: none;
+}
+#phone_menu_design {
+  display: none;
+}
+#phone-label_menu_design {
+  display: none;
+}
+#email_success_message_menu_design{
+  display: none;
+}
+#book_now_email_menu_design{
+  display: none;
+}
+#submit_menu_design{
+  display: none;
+}
+
+#email_pamphlet_design {
+  display: none;
+}
+#email-label_pamphlet_design {
+  display: none;
+}
+#phone_pamphlet_design {
+  display: none;
+}
+#phone-label_pamphlet_design {
+  display: none;
+}
+#email_success_message_pamphlet_design{
+  display: none;
+}
+#book_now_email_pamphlet_design{
+  display: none;
+}
+#submit_pamphlet_design{
+  display: none;
+}
+
+#email_video_design {
+  display: none;
+}
+#email-label_video_design {
+  display: none;
+}
+#phone_video_design {
+  display: none;
+}
+#phone-label_video_design {
+  display: none;
+}
+#email_success_message_video_design{
+  display: none;
+}
+#book_now_email_video_design{
+  display: none;
+}
+#submit_video_design{
+  display: none;
+}
+
+#email_card_design {
+  display: none;
+}
+#email-label_card_design {
+  display: none;
+}
+#phone_card_design {
+  display: none;
+}
+#phone-label_card_design {
+  display: none;
+}
+#email_success_message_card_design{
+  display: none;
+}
+#book_now_email_card_design{
+  display: none;
+}
+#submit_card_design{
+  display: none;
+}
+
+#email_custom_product_design {
+  display: none;
+}
+#email-label_custom_product_design {
+  display: none;
+}
+#phone_custom_product_design {
+  display: none;
+}
+#phone-label_custom_product_design {
+  display: none;
+}
+#email_success_message_custom_product_design{
+  display: none;
+}
+#book_now_email_custom_product_design{
+  display: none;
+}
+#submit_custom_product_design{
+  display: none;
+}
+
+#email_illustration_design {
+  display: none;
+}
+#email-label_illustration_design {
+  display: none;
+}
+#phone_illustration_design {
+  display: none;
+}
+#phone-label_illustration_design {
+  display: none;
+}
+#email_success_message_illustration_design{
+  display: none;
+}
+#book_now_email_illustration_design{
+  display: none;
+}
+#submit_illustration_design{
+  display: none;
+}
+
+#email_branding {
+  display: none;
+}
+#email-label_branding {
+  display: none;
+}
+#phone_branding {
+  display: none;
+}
+#phone-label_branding {
+  display: none;
+}
+#email_success_message_branding{
+  display: none;
+}
+#book_now_email_branding{
+  display: none;
+}
+#submit_branding{
+  display: none;
+}
+
+.price-row{
+  margin-left:80px;
+}
+
+.padding-bottom-20{
+  padding-bottom: 20px;
+}
+
 .inline-notification{
   background-color: green;
   color: white;
@@ -752,6 +1069,12 @@ figcaption {
   padding-right: 30px;
     padding-left: 30px;
 }
+
+.service-form{
+  margin-right: 30px;
+    margin-left: 10px;
+}
+
 .top-input{
   padding:30px;
 }
@@ -1371,6 +1694,10 @@ figcaption {
   margin-top: 40px;
 }
 
+.float-left{
+  float:left;
+}
+
 .div-block {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1724,6 +2051,12 @@ figcaption {
   height: 100%;
 }
 
+.column-6 {
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
 .link-block-3 {
   height: 100%;
 }
@@ -1885,6 +2218,54 @@ figcaption {
   margin-bottom: 10px;
 }
 
+.text-block-20 {
+    display: inline-block;
+    padding-left: 10px;
+    float: left;
+    clear: none;
+    font-weight: 600;
+    text-align: left;
+}
+
+.text-block-21 {
+    display: inline-block;
+    padding-left: 10px;
+    float: left;
+    opacity: 0.5;
+    text-align: left;
+    text-decoration: line-through;
+}
+
+.text-block-22 {
+    display: inline-block;
+    padding-left: 10px;
+    float: left;
+    text-align: left;
+}
+
+.text-block-23 {
+    display: inline-block;
+    padding-left: 10px;
+    float: left;
+    color: rgb(46, 153, 82);
+    font-weight: 500;
+    text-align: right;
+}
+
+.text-block-24 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    color: rgb(224, 32, 32);
+    text-align: left;
+}
+
+.text-block-25 {
+    margin-bottom: 10px;
+    padding-left: 10px;
+    text-align: left;
+}
+
 .link-4 {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -1910,6 +2291,17 @@ figcaption {
 
 .heading-3 {
   line-height: 28px;
+}
+
+.heading-4 {
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: left;
+}
+.heading-5 {
+    padding-left: 10px;
+    text-align: left;
+}
 }
 
 .bold-text-2 {
