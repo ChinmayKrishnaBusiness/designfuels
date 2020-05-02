@@ -2126,7 +2126,7 @@ figcaption {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-image: url('../images/chinmay-ram.jpg');
+  background-image: url('../images/team.jpg');
   background-position: 0px 0px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2135,6 +2135,12 @@ figcaption {
 
 .heading {
   color: #fff;
+  font-weight: 600;
+  text-align: center;
+}
+
+.heading-dark {
+  color: #000;
   font-weight: 600;
   text-align: center;
 }
