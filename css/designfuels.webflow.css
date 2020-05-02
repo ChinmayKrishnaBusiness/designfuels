@@ -2047,6 +2047,14 @@ figcaption {
   color: #fff;
 }
 
+.people-div{
+  text-align: center;
+}
+
+.people-image{
+  margin:auto;
+}
+
 .column-5 {
   height: 100%;
 }
@@ -2096,6 +2104,29 @@ figcaption {
   -ms-flex-pack: center;
   justify-content: center;
   background-image: url('../images/joanna-kosinska-1_CMoFsPfso-unsplash-1.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container-13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 581px;
+  width: 1032px
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  background-image: url('../images/chinmay-ram.jpg');
   background-position: 0px 0px;
   background-size: cover;
   background-repeat: no-repeat;
