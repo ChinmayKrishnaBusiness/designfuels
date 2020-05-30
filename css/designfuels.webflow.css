@@ -935,8 +935,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/tamarcus-brown-29pFbI_D1Sc-unsplash.jpg');
-  background-position: 100% 0%;
+  background-image: url('../images/discover.png');
+  background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -2884,8 +2884,8 @@ figcaption {
     padding-left: 15px;
   }
   .intro-header {
-    background-image: url('../images/tamarcus-brown-29pFbI_D1Sc-unsplash.jpg');
-    background-position: 80% 50%;
+    background-image: url('../images/discover.png');
+    background-position: 50% 50%;
     background-size: cover;
   }
   .intro-content.cc-homepage {
